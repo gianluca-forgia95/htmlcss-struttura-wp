@@ -12,3 +12,16 @@ body  {
   margin: auto;
   background-color: yellow;
 }
+.banner {
+  width: 1000px;
+  height: 400px;
+  background-color: red;
+  margin: auto;
+  margin-top: 40px;
+}
+.sezione::after {
+  content: "";
+  display: block;
+  margin: auto;
+
+}
